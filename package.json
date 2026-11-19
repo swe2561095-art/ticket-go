@@ -1,0 +1,6 @@
+{
+  "name": "ticket-go",
+  "scripts": {
+    "test": "node --test"
+  }
+}
